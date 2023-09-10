@@ -13,11 +13,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^8.2.1"
+    "concurrently": "^5.1.0"
   },
   "dependencies": {
     "apollo-client":"2.6.10",
     "bcryptjs": "^2.4.3",
-    "graphql": "15.1.0"
+    "graphql": "^15.5.2"
   }
 }
