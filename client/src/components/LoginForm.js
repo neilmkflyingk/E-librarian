@@ -45,10 +45,8 @@ const LoginForm = () => {
       console.error(error);
       setShowAlert(true);
     }
-    }
 
     setUserFormData({
-      username: '',
       email: '',
       password: '',
     });
