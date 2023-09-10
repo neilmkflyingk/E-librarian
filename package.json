@@ -16,6 +16,8 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3"
+    "bcryptjs": "^2.4.3",
+    "apollo-client":"^2.6.10",
+    "graphql":"^16.8.0"
   }
 }
